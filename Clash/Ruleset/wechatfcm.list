@@ -1,7 +1,8 @@
 # wechat fcm规则
-DOMAIN-SUFFIX,szexhort.weixin.qq.com
-DOMAIN-SUFFIX,szexhort.weixin.qq.com
-DOMAIN-SUFFIX,hkexhort.weixin.qq.com
+DOMAIN-SUFFIX,extshort.weixin.qq.com
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
+DOMAIN-SUFFIX,hkexsthort.weixin.qq.com
 DOMAIN-SUFFIX,szshort.weixin.qq.com
 DOMAIN-SUFFIX,szlong.weixin.qq.com
 DOMAIN-SUFFIX,short.weixin.qq.com
